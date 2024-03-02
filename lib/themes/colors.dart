@@ -19,3 +19,5 @@ const color200 =Color(0xFF99BFD6);
 const color100 =Color(0xFFA7C8DC);
 
 const shade50 = Color(0xFFFAFAFA);
+const shade100 = Color(0xFFF5F5F5);
+const shade500 = Color(0xFF737373);

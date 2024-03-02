@@ -14,7 +14,7 @@ class PageViewp extends StatelessWidget {
           right: 0,left: 0,
           bottom: 24,
           child: CircleAvatar(
-            backgroundColor: Color(0x3DFFFFFF),
+            backgroundColor: Colors.transparent,
             child: InkWell(
               onTap: (){
                 onPressDown();

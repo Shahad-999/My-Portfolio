@@ -9,3 +9,10 @@ const appBarTabsStyle = TextStyle(
   letterSpacing: 0,
   color: shade50
 );
+
+const largeTextStyle = TextStyle(
+  fontSize: 56,
+  fontWeight: FontWeight.bold,
+  height: 1.2,
+  color: shade50
+);
